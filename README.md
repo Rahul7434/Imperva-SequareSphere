@@ -1,3 +1,31 @@
+Imperva SecureSphere is Imperva's Database Security and Data Activity Monitoring (DAM) platform. It is designed to monitor, audit, protect, and control access to databases, file systems, and sensitive data.
+
+
+Main Components:
+```
+Management Server (MX):
+Central management console
+Policy configuration
+Reporting and administration
+
+Gateway:
+Monitors database traffic
+Inspects SQL queries
+Enforces security policies
+Blocks unauthorized activities
+
+Agents (Optional):
+Installed on database servers
+Captures local database activity that network monitoring may miss
+
+SecureSphere Database Audit and Protection:
+Real-time monitoring
+Auditing
+Compliance reporting
+Threat detection
+
+```
+
 Architecture:
 
 ```
