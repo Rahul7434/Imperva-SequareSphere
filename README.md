@@ -25,6 +25,27 @@ Compliance reporting
 Threat detection
 
 ```
+SecureSphere vs DSF Hub:
+```
+    *SecureSphere (Classic):
+        - On-prem DAM (Database Activity Monitoring) platform
+        - Uses MX (Management Server) + Gateway architecture
+        - Traditional web-based UI
+        - Primarily focused on database monitoring and auditing
+        - Separate management and reporting infrastructure
+        - Legacy Imperva data security solution
+        - Best suited for database activity monitoring and protection
+    *DSF Hub (Modern):
+        - Cloud-native data security platform
+        - Uses DSF Hub + Gateway architecture
+        - Unified SaaS / Hybrid UI
+        - Supports DAM, DSPM, Assessment, and Data Discovery
+        - Centralized management and reporting
+        - Next-generation Imperva Data Security platform
+        - Supports multi-cloud environments (Azure, AWS, GCP)
+        - Provides broader data security posture and compliance capabilities
+
+```
 
 Architecture:
 
